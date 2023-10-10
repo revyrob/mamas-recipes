@@ -23,3 +23,12 @@
 .field--label-inline .field__label::after {
   content: ":";
 }
+.blog-post__tag {
+  color: pink
+}
+.first {
+  background-color: blueviolet;
+}
+.last {
+  background-color: orange;
+}
