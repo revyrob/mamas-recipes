@@ -5,10 +5,15 @@
 
 .field__label {
   font-weight: bold;
+  &blog-post__tag{
+    color: pink;
+
+  }
 }
 .field--label-inline .field__label,
 .field--label-inline .field__items {
   float: left; /* LTR */
+  
 }
 .field--label-inline .field__label,
 .field--label-inline > .field__item,
