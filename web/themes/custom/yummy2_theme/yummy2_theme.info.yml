@@ -1,6 +1,6 @@
 name: yummy2_theme
 type: theme
-"base theme": bootstrap5
+base theme: bootstrap5
 starterkit: true
 version: VERSION
 libraries:
